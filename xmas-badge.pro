@@ -1,5 +1,5 @@
 
-update=Sa 23 Okt 2021 14:48:43 CEST
+update=Sa 23 Okt 2021 15:43:00 CEST
 version=1
 last_client=eeschema
 [cvpcb]
@@ -7,6 +7,9 @@ version=1
 NetIExt=net
 [general]
 version=1
+[eeschema]
+version=1
+LibDir=
 [pcbnew]
 version=1
 PageLayoutDescrFile=
@@ -231,9 +234,6 @@ uViaDrill=0.1
 dPairWidth=0.2
 dPairGap=0.25
 dPairViaGap=0.25
-[eeschema]
-version=1
-LibDir=
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
