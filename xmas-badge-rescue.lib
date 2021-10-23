@@ -1,11 +1,11 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# xmas-badge-rescue_BAT_HLD_2032-!Goody
+# BAT_HLD_2032-!Goody
 #
-DEF xmas-badge-rescue_BAT_HLD_2032-!Goody U 0 40 Y Y 1 F N
+DEF BAT_HLD_2032-!Goody U 0 40 Y Y 1 F N
 F0 "U" -450 -400 50 H V C CNN
-F1 "xmas-badge-rescue_BAT_HLD_2032-!Goody" -700 -250 50 H V C CNN
+F1 "BAT_HLD_2032-!Goody" -700 -250 50 H V C CNN
 F2 "Battery:BatteryHolder_Keystone_106_1x20mm" -700 -550 50 H V C CNN
 F3 "" -450 -400 50 H I C CNN
 DRAW
@@ -18,11 +18,11 @@ X 2- 2 0 -550 100 L 50 50 1 1 w X
 ENDDRAW
 ENDDEF
 #
-# xmas-badge-rescue_LED-!Goody
+# LED-!Goody
 #
-DEF xmas-badge-rescue_LED-!Goody D 0 40 N N 1 F N
+DEF LED-!Goody D 0 40 N N 1 F N
 F0 "D" 0 100 50 H V C CNN
-F1 "xmas-badge-rescue_LED-!Goody" 100 -100 50 V V C CNN
+F1 "LED-!Goody" 100 -100 50 V V C CNN
 F2 "LED_THT:LED_D5.0mm" 0 200 50 H I C CNN
 F3 "" 0 -100 50 V I C CNN
 $FPLIST
@@ -41,11 +41,11 @@ X A 2 0 50 100 D 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# xmas-badge-rescue_LP-!Goody
+# LP-!Goody
 #
-DEF xmas-badge-rescue_LP-!Goody U 0 40 Y Y 1 F N
+DEF LP-!Goody U 0 40 Y Y 1 F N
 F0 "U" -250 350 50 H V C CNN
-F1 "xmas-badge-rescue_LP-!Goody" -150 350 50 H V C CNN
+F1 "LP-!Goody" -150 350 50 H V C CNN
 F2 "KHF_LIB:LP" -150 350 50 H I C CNN
 F3 "" -150 350 50 H I C CNN
 DRAW
@@ -53,11 +53,11 @@ X LP 1 0 0 100 D 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# xmas-badge-rescue_Micro_Schalter-!Goody
+# Micro_Schalter-!Goody
 #
-DEF xmas-badge-rescue_Micro_Schalter-!Goody S 0 40 Y Y 1 F N
+DEF Micro_Schalter-!Goody S 0 40 Y Y 1 F N
 F0 "S" 0 0 50 H V C CNN
-F1 "xmas-badge-rescue_Micro_Schalter-!Goody" 0 200 50 H I C CNN
+F1 "Micro_Schalter-!Goody" 0 200 50 H I C CNN
 F2 "KHF_LIB:Micro_SchalterKHF" 0 0 50 H V C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -67,11 +67,11 @@ X A 3 150 -100 100 D 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# xmas-badge-rescue_R-!Goody
+# R-!Goody
 #
-DEF xmas-badge-rescue_R-!Goody R 0 0 N Y 1 F N
+DEF R-!Goody R 0 0 N Y 1 F N
 F0 "R" 80 0 50 V V C CNN
-F1 "xmas-badge-rescue_R-!Goody" 0 0 50 V V C CNN
+F1 "R-!Goody" 0 0 50 V V C CNN
 F2 "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal" -70 0 50 V I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST

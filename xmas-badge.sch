@@ -4,17 +4,17 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
-Comp ""
-Comment1 ""
+Title "XMas Badge"
+Date "2021-10-23"
+Rev "1.0.0"
+Comp "FabLab Oberland e.V."
+Comment1 "Karlheinz Frank & Alexander Kutschera"
 Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L !Goody:BAT_HLD_2032 U1
+L xmas-badge-rescue:BAT_HLD_2032-!Goody U1
 U 1 1 6152D3A3
 P 2500 2600
 F 0 "U1" H 2387 2665 50  0000 C CNN
@@ -25,7 +25,7 @@ F 3 "" H 2050 2200 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L !Goody:Micro_Schalter S1
+L xmas-badge-rescue:Micro_Schalter-!Goody S1
 U 1 1 6152DBDE
 P 3250 1750
 F 0 "S1" H 3458 1609 50  0000 L CNN
@@ -36,7 +36,7 @@ F 3 "" H 3250 1750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L !Goody:R R4
+L xmas-badge-rescue:R-!Goody R4
 U 1 1 6152DEF1
 P 5600 1750
 F 0 "R4" V 5393 1750 50  0000 C CNN
@@ -47,7 +47,7 @@ F 3 "~" H 5600 1750 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L !Goody:R R5
+L xmas-badge-rescue:R-!Goody R5
 U 1 1 6152EAC1
 P 5600 2000
 F 0 "R5" V 5393 2000 50  0000 C CNN
@@ -58,7 +58,7 @@ F 3 "~" H 5600 2000 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L !Goody:R R6
+L xmas-badge-rescue:R-!Goody R6
 U 1 1 6152EC15
 P 6600 1850
 F 0 "R6" V 6393 1850 50  0000 C CNN
@@ -69,7 +69,7 @@ F 3 "~" H 6600 1850 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L !Goody:R R1
+L xmas-badge-rescue:R-!Goody R1
 U 1 1 6152ED79
 P 3800 3600
 F 0 "R1" V 3593 3600 50  0000 C CNN
@@ -80,7 +80,7 @@ F 3 "~" H 3800 3600 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L !Goody:R R3
+L xmas-badge-rescue:R-!Goody R3
 U 1 1 6152EEED
 P 4700 3600
 F 0 "R3" V 4493 3600 50  0000 C CNN
@@ -91,7 +91,7 @@ F 3 "~" H 4700 3600 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L !Goody:R R2
+L xmas-badge-rescue:R-!Goody R2
 U 1 1 6152F071
 P 4300 3950
 F 0 "R2" V 4093 3950 50  0000 C CNN
@@ -102,7 +102,7 @@ F 3 "~" H 4300 3950 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L !Goody:LED D1
+L xmas-badge-rescue:LED-!Goody D1
 U 1 1 6152F28A
 P 8000 2550
 F 0 "D1" H 8118 2489 50  0000 L CNN
@@ -113,7 +113,7 @@ F 3 "" V 8000 2450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L !Goody:LP U4
+L xmas-badge-rescue:LP-!Goody U4
 U 1 1 6152F9D0
 P 5450 1450
 F 0 "U4" V 5225 1337 50  0000 C CNN
@@ -124,7 +124,7 @@ F 3 "" H 5300 1800 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L !Goody:LP U5
+L xmas-badge-rescue:LP-!Goody U5
 U 1 1 6152FD38
 P 5750 1450
 F 0 "U5" H 5662 1291 50  0000 R CNN
@@ -135,7 +135,7 @@ F 3 "" H 5600 1800 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L !Goody:LP U2
+L xmas-badge-rescue:LP-!Goody U2
 U 1 1 615305BB
 P 4550 3350
 F 0 "U2" V 4325 3237 50  0000 C CNN
@@ -146,7 +146,7 @@ F 3 "" H 4400 3700 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L !Goody:LP U3
+L xmas-badge-rescue:LP-!Goody U3
 U 1 1 615305C1
 P 4850 3350
 F 0 "U3" H 4762 3191 50  0000 R CNN

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name xmas-badge)(type KiCad)(uri "$(KIPRJMOD)/xmas-badge.pretty")(options "")(descr ""))
+  (lib (name libraries)(type KiCad)(uri ${KIPRJMOD}/libraries)(options "")(descr ""))
+)
