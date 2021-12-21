@@ -1,0 +1,6 @@
+summary: XMas LED Badge (educational PCB)
+readme: README.md
+bom: 1-click-bom.csv
+eda:
+  type: kicad
+  pcb: kicad_files/xmas-badge.kicad_pcb
